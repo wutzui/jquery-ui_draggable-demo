@@ -1,0 +1,403 @@
+h1{
+	font-family: arial;
+	position: fixed;
+	top: 0px;
+	left: 20px;
+}
+
+/*addClasses*/
+.addClasses{
+	position: fixed;
+	top:100px;
+	left: 100px;
+	width: 130px;
+	height: 50px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 50px;
+	font-family: arial;
+}
+
+/*appendTo*/
+.appendTo{
+	position: fixed;
+	top:170px;
+	left: 100px;
+	width: 130px;
+	height: 50px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 50px;
+	font-family: arial;
+}
+
+/*axis*/
+.axis-x{
+	position: fixed;
+	top:100px;
+	left: 250px;
+	width: 130px;
+	height: 50px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 50px;
+	font-family: arial;
+}
+
+.axis-y{
+	position: fixed;
+	top:170px;
+	left: 250px;
+	width: 130px;
+	height: 50px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 50px;
+	font-family: arial;
+}
+
+/*cancel*/
+.cancel{
+	position: fixed;
+	top: 100px;
+	left: 400px;
+	font-family: arial black;
+	width: 220px;
+	height: 120px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 20px;
+}
+
+.cancel-drag{
+	position: fixed;
+	width: 190px;
+	height: 30px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 30px;
+	margin-left: 15px;
+}
+
+
+/*connectToSortable*/
+.sortable{
+	position: fixed;
+	top: 100px;
+	left: 640px;
+	font-family: arial;
+	width: 220px;
+	height: 120px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 20px;
+}
+
+.items{
+	position: fixed;
+	width: 190px;
+	height: 90px;
+}
+
+.items li {
+	width: 190px;
+	height: 35px;
+	border-radius: 5px;
+	background: white;
+	color:black;
+	text-align: center;
+	line-height: 35px;
+	margin-bottom: 17px;
+	margin-left: -24px;
+	list-style: none;
+}
+
+#connectToSortable {
+	position: fixed;
+	top: 100px;
+	left: 880px;
+	font-family: arial;
+	width: 220px;
+	height: 430px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 20px;
+}
+
+/*contaiment*/
+.containment{
+	position: fixed;
+	top: 240px;
+	left: 100px;
+	width: 280px;
+	height: 150px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 50px;
+	font-family: arial;
+}
+
+.containment-item{
+	width: 250px;
+	height: 35px;
+	border-radius: 5px;
+	background: white;
+	color:black;
+	text-align: center;
+	line-height: 35px;
+	margin-left: 15px;
+	margin-top: 17px;
+	margin-right: 15px;
+}
+
+/*cursor*/
+.cursor{
+	position: fixed;
+	top: 240px;
+	left: 400px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*cursorAt*/
+.cursorAt{
+	position: fixed;
+	top: 324px;
+	left: 400px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*cursor*/
+.delay{
+	position: fixed;
+	top: 240px;
+	left: 520px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*disabled*/
+.disabled{
+	position: fixed;
+	top: 324px;
+	left: 520px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*distance*/
+.distance{
+	position: fixed;
+	top: 240px;
+	left: 640px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*grid*/
+.grid-contain{
+	position: fixed;
+	top: 410px;
+	left: 100px;
+	width: 280px;
+	height: 120px;
+	border-radius: 5px;
+	background: red;
+	color:white;
+	text-align: center;
+	line-height: 50px;
+	font-family: arial black;
+}
+
+.grid{
+	position: fixed;
+	top: 435px;
+	left: 105px;
+	width: 20px;
+	height: 20px;
+	border-radius: 5px;
+	background: white;
+	color:black;
+	text-align: center;
+	line-height: 20px;
+	margin: 15px;
+}
+
+/*handle*/
+.handle{
+	position: fixed;
+	top: 410px;
+	left: 400px;
+	font-family: arial black;
+	width: 220px;
+	height: 120px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 20px;
+}
+
+.handle-drag{
+	position: fixed;
+	width: 190px;
+	height: 30px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 30px;
+	margin-left: 15px;
+}
+
+/*opacity*/
+.opacity{
+	position: fixed;
+	top: 240px;
+	left: 760px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*revert*/
+.revert{
+	position: fixed;
+	top: 324px;
+	left: 640px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*scroll*/
+.scroll{
+	position: relative; /*一定要設relative，fixed不行*/
+	top: 316px;
+	left: 753px;
+	font-family: arial black;
+	width: 100px;
+	height: 67px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 67px;
+}
+
+/*snap*/
+.snap{
+	position: fixed;
+	top: 410px;
+	left: 640px;
+	font-family: arial black;
+	width: 220px;
+	height: 50px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 50px;
+}
+
+/*stack*/
+#stack1{
+	position: fixed;
+	top: 480px;
+	left: 640px;
+	font-family: arial black;
+	width: 60px;
+	height: 50px;
+	border-radius: 5px;
+	background: red;
+	color:black;
+	text-align: center;
+	line-height: 50px;
+}
+
+#stack2{
+	position: fixed;
+	top: 480px;
+	left: 720px;
+	font-family: arial black;
+	width: 60px;
+	height: 50px;
+	border-radius: 5px;
+	background: black;
+	color:white;
+	text-align: center;
+	line-height: 50px;
+}
+
+#stack3{
+	position: fixed;
+	top: 480px;
+	left: 800px;
+	font-family: arial black;
+	width: 60px;
+	height: 50px;
+	border-radius: 5px;
+	background: pink;
+	color:black;
+	text-align: center;
+	line-height: 50px;
+}
